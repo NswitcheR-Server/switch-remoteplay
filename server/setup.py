@@ -13,7 +13,7 @@ test_deps = [
 ]
 
 setup(
-	name='nswitcher-server',
+	name='switch-remoteplay-server',
 	version='1.0.0',
 	packages=find_packages(),
 	url='https://github.com/NswitcheR-Server/switch-remoteplay/',
