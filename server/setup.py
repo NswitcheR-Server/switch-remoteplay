@@ -13,12 +13,12 @@ test_deps = [
 ]
 
 setup(
-	name='switch-remoteplay-server',
+	name='nswitcher-server',
 	version='1.0.0',
 	packages=find_packages(),
-	url='https://github.com/juharris/switch-remoteplay',
+	url='https://github.com/NswitcheR-Server/switch-remoteplay/',
 	license='MIT',
-	author="Justin D. Harris",
+	author="Justin D. Harris, NswitcheR Team",
 	author_email='',
 	description="Play your Nintendo Switch remotely. Run this on a device that can connect to a Switch.",
 	install_requires=install_requires,
